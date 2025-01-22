@@ -60,3 +60,12 @@ Commands:
   percentage        计算干员练度
 PS D:\Project\py_arknights>
 ```
+
+## 绝赞美图
+
+![94afb61e50415701ba5aadf7b255c0b7](https://github.com/user-attachments/assets/27af3949-db69-4a24-9555-ed0a38f5f3e4)
+![211b50c25e297fd6f81571b6e4938fc1](https://github.com/user-attachments/assets/4e7e2b60-3dde-4bbc-8ef9-10b4126c156e)
+![da19bb2b43876a48dd151f02854345be](https://github.com/user-attachments/assets/11a1ae19-dd97-46c4-8773-71d03e866846)
+![b5c475de1bec50e459af7c4f788ad89d](https://github.com/user-attachments/assets/3596799a-083c-49f1-804c-6fd656a2e36f)
+![4786f7c09e6724ceeb3a66460c454167](https://github.com/user-attachments/assets/31b542b0-f008-485b-8dd4-71c2f32f7368)
+![550524d970dd60d7a30967f4606c4113](https://github.com/user-attachments/assets/eeb9cdba-b898-4d3b-96b0-02db77a1051b)
